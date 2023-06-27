@@ -1,2 +1,1 @@
-# MusicPlayer
-my music player project
+https://kanishka4.github.io/MusicPlayer/
