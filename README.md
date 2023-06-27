@@ -1,1 +1,1 @@
-https://kanishka4.github.io/MusicPlayer/
+https://kinshuk.github.io/MusicPlayer/
